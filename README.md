@@ -78,7 +78,7 @@ The headline number in both studies is the *gap*, not the peak score. An unconst
 ## Running it yourself
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/apprentice-chef-model-stacking.git
+git clone https://github.com/alexly0329-cpu/apprentice-chef-model-stacking.git
 cd apprentice-chef-model-stacking
 pip install -r requirements.txt
 jupyter notebook
