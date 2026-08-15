@@ -32,9 +32,13 @@ The headline number in both studies is the *gap*, not the peak score. An unconst
 | `data/Apprentice_Chef_Dataset.xlsx` | Source dataset (1,946 customers, 28 raw features) |
 | `assets/` | Exported charts used in this README |
 
-**View rendered** (no account needed) — [Part 1](https://nbviewer.org/github/alexly0329-cpu/REPO-NAME/blob/main/A1_Part1_Revenue_Regression.ipynb) · [Part 2](https://nbviewer.org/github/alexly0329-cpu/REPO-NAME/blob/main/A1_Part2_CrossSell_Classification.ipynb)
+**View rendered** (no account needed) — [Part 1](https://nbviewer.org/github/alexly0329-cpu/apprentice-chef-model-stacking
+/blob/main/A1_Part1_Revenue_Regression.ipynb) · [Part 2](https://nbviewer.org/github/alexly0329-cpu/apprentice-chef-model-stacking
+/blob/main/A1_Part2_CrossSell_Classification.ipynb)
 
-**Open in Colab** (to run it) — [Part 1](https://colab.research.google.com/github/alexly0329-cpu/REPO-NAME/blob/main/A1_Part1_Revenue_Regression.ipynb) · [Part 2](https://colab.research.google.com/github/alexly0329-cpu/REPO-NAME/blob/main/A1_Part2_CrossSell_Classification.ipynb)
+**Open in Colab** (to run it) — [Part 1](https://colab.research.google.com/github/alexly0329-cpu/apprentice-chef-model-stacking
+/blob/main/A1_Part1_Revenue_Regression.ipynb) · [Part 2](https://colab.research.google.com/github/alexly0329-cpu/apprentice-chef-model-stacking
+/blob/main/A1_Part2_CrossSell_Classification.ipynb)
 
 ---
 
